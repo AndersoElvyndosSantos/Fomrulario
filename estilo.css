@@ -42,4 +42,7 @@ fieldset{
     width: 102%;
     margin-top: 10px;
 }
+@media only screen and (max-device-width: 700px) {
+/* .menu { width:400px; } */
+}
 
